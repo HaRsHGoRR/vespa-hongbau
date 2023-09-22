@@ -1,8 +1,5 @@
 # Vespa Hongbao API Requester
 
-![License](https://img.shields.io/github/license/HaRsHGoRR/vespa-hongbao)
-![Stars](https://img.shields.io/github/stars/HaRsHGoRR/vespa-hongbao)
-![Forks](https://img.shields.io/github/forks/HaRsHGoRR/vespa-hongbao)
 
 ## Description
 
