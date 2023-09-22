@@ -20,10 +20,10 @@ This Python script generates random codes and sends API requests concurrently to
    ```
 2. Install the required dependencies:
 
- ```bash
+    ```bash
 
-   pip install requests
- ```
+      pip install requests
+    ```
 
 3. Run the script:
 
