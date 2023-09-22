@@ -23,7 +23,7 @@ This Python script generates random codes and sends API requests concurrently to
  ```bash
 
    pip install requests
-```
+ ```
 
 3. Run the script:
 
