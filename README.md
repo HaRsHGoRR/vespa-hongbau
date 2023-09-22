@@ -16,7 +16,7 @@ This Python script generates random codes and sends API requests concurrently to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HaRsHGoRR/vespa-hongbao.git
+   git clone https://github.com/HaRsHGoRR/vespa-hongbau.git
    ```
 2. Install the required dependencies:
 
