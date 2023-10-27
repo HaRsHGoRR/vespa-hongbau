@@ -10,7 +10,7 @@ def generate_random_code(length):
 def send_request(code):
     url = "https://wea.vespa.games/api/hongbao/hongbao_detail"
     headers = {
-        'Token': 'dc30bc30-c42f-42dd-87b2-d0700dedec41',
+        'Token': 'ur token',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36'
     }
 
